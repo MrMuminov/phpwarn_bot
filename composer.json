@@ -1,0 +1,20 @@
+{
+  "name": "mrmuminov/telegram-bot",
+  "license": "MIT",
+  "description": "PHP template for telegram bot",
+  "authors": [
+    {
+      "name": "Bahriddin Mo'minov",
+      "email": "darkshadeuz@gmail.com",
+      "homepage": "https://bahriddin.uz/"
+    }
+  ],
+  "require": {
+    "telegram-bot/api": "^2.3",
+    "gabordemooij/redbean": "dev-master",
+    "mrmuminov/php-i18n": "^1.0",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-pdo": "*"
+  }
+}
